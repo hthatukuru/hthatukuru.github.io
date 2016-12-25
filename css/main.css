@@ -4,7 +4,7 @@ body {
 }
 
 header {
-  padding: 10px 0;
+  padding: 20px 0;
 }
 
 header .row,
@@ -33,7 +33,7 @@ header nav ul {
 
 header nav li{
   margin: 0;
-  padding: 0 10px;
+  padding: 0 20px;
   display: inline;
   vertical-align: middle;
   text-align: center;
@@ -79,7 +79,7 @@ section .row img {
   color: #fbd1d5;
   text-shadow: none;
   background-color: #ffffff;
-  padding: 0 10px;
+  padding: 0 20px;
   vertical-align: middle;
   text-align: center;
 }
