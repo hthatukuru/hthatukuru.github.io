@@ -21,10 +21,12 @@ header h1 {
 header nav {
   display: inline;
   background-color: #FFF;
+  align-items: center;
 }
 
 header nav ul {
   display: inline;
+  align-items: center;
 }
 
 header nav li{
