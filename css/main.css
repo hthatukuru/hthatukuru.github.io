@@ -28,24 +28,14 @@ header p {
   margin: 0;
 }
 
-.bg {
-  background-image: url('https://media-cdn.tripadvisor.com/media/photo-s/03/9b/30/26/seattle.jpg') no-repeat center center;
-  background-size: cover;
-  position: fixed;
-  width: 100%;
-  height: 500px; /*same height as jumbotron */
-  top:0;
-  left:0;
-  z-index: -1;
-}
-
 .jumbotron {
   display: flex;
   align-items: center;
-  background: transparent;
-  color: white;
-  height: 500px;
-  text-shadow: black 0.25px 0.25px 0.25px;
+  background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/03/9b/30/26/seattle.jpg");
+  background-size: cover;
+  color: #ffffff;
+  height: 100%;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
 .jumbotron h2 {
