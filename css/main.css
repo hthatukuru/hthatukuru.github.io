@@ -19,8 +19,14 @@ header h1 {
 }
 
 header nav {
-  display: flex;
+  display: inline;
   justify-content: flex-end;
+}
+
+header nav li{
+  margin: 0;
+  padding: 0 10px;
+  display: inline;
 }
 
 header p {
