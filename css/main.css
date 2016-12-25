@@ -28,6 +28,15 @@ header p {
   margin: 0;
 }
 
+.main {
+	padding: 250px 0;
+	margin: 30px;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg);
+  background-size: cover;
+  color: #ffffff;
+}
+
 .jumbotron {
   display: flex;
   align-items: center;
