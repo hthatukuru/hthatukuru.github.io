@@ -24,14 +24,14 @@ header nav {
 }
 
 header nav li{
-  padding: 0 50px;
-  margin: 10;
+  margin: 0;
+  padding: 0 10px;
   display: inline;
 }
 
 header p {
-  padding: 0 50px;
-  margin: 10;
+  padding: 0 20px;
+  margin: 0;
 }
 
 .jumbotron {
