@@ -22,11 +22,13 @@ header nav {
   display: inline;
   background-color: #FFF;
   vertical-align: middle;
+  text-align: center;
 }
 
 header nav ul {
   display: inline;
   vertical-align: middle;
+  text-align: center;
 }
 
 header nav li{
@@ -34,6 +36,7 @@ header nav li{
   padding: 0 10px;
   display: inline;
   vertical-align: middle;
+  text-align: center;
 }
 
 header p {
