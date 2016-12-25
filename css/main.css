@@ -31,10 +31,10 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url(images/seattle.jpg);
-  background-size: 100% 100%;
+  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/jumbotron.jpg');
+  background-size: cover;
   color: #ffffff;
-  height: 2000px;
+  height: 5000px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
