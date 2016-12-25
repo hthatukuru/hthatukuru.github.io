@@ -80,6 +80,8 @@ section .row img {
   text-shadow: none;
   background-color: #ffffff;
   padding: 0 10px;
+  vertical-align: middle;
+  text-align: center;
 }
 
 .btn.btn-primary:hover {
