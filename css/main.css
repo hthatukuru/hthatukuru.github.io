@@ -28,6 +28,11 @@ header p {
   margin: 0;
 }
 
+.jumbotron1 {
+  background-image: url(images/seattle);
+  background-size: cover;
+}
+
 .jumbotron {
   display: flex;
   align-items: center;
