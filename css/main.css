@@ -28,19 +28,23 @@ header p {
   margin: 0;
 }
 
+.bg {
+  background: url('/assets/example/bg_blueplane.jpg') no-repeat center center;
+  position: fixed;
+  width: 100%;
+  height: 500px; /*same height as jumbotron */
+  top:0;
+  left:0;
+  z-index: -1;
+}
+
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/03/9b/30/26/seattle.jpg");
-  background-size: cover;
-  color: #ffffff;
+  background: transparent;
+  color: white;
   height: 500px;
-  text-shadow: 0.25px 0.25px 0.25px #000000;
-}
-
-.jumbotron main{
-  background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/03/9b/30/26/seattle.jpg");
-  background-size: cover;
+  text-shadow: black 0.25px 0.25px 0.25px;
 }
 
 .jumbotron h2 {
