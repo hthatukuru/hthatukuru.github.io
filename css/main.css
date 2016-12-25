@@ -28,15 +28,6 @@ header p {
   margin: 0;
 }
 
-.main {
-	padding: 250px 0;
-	margin: 30px;
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
-  background-image: url(https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg);
-  background-size: cover;
-  color: #ffffff;
-}
-
 .jumbotron {
   display: flex;
   align-items: center;
@@ -45,6 +36,11 @@ header p {
   color: #ffffff;
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+.jumbotron main{
+  background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/03/9b/30/26/seattle.jpg");
+  background-size: cover;
 }
 
 .jumbotron h2 {
